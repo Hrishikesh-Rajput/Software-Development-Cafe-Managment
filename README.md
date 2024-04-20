@@ -1,5 +1,5 @@
 # <img src="https://i.imgur.com/4sklkeQ.png" height="30px">  Cafe Project
-Simple OOP PHP cafe managment system for ITI Internship
+Simple OOP PHP cafe managment system
 
 
 **Languages and Technologies:**  
